@@ -1,0 +1,12 @@
+# Python virtual environments
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+# Ignore virtual environment files and directories
+bin/
+include/
+lib/
+pyvenv.cfg
