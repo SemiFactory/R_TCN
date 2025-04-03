@@ -11,8 +11,7 @@
 ├── evaluate_and_pridict_S.py  # 모델 평가 및 예측
 ├── visual_result_S.py     # 결과 시각화
 ├── data_preprocessing.py  # 데이터 전처리 모듈
-├── config.py              # 설정 파일
-└── README.md              # 프로젝트 설명
+
 ```
 
 ## 주요 기능
